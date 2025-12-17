@@ -406,7 +406,7 @@ export default function Home() {
         },
         {
           name: 'Compliance',
-          items: ['SOC 2', 'GDPR', 'HIPAA', 'PCI-DSS', 'ISO 27001']
+          items: ['SOC 2', 'GDPR', 'HIPAA', 'PCI-DSS', 'ISO 21']
         },
         {
           name: 'Network Security',
@@ -821,7 +821,7 @@ export default function Home() {
                 My journey has been anything but conventional.
               </p>
               <p className="text-base md:text-lg text-gray-300 leading-relaxed mb-4">
-                I've faced over <span className="text-red-400 font-bold">700 rejections</span> and failed countless interviews. I don't hold a traditional technical degree—yet I am a technologist by practice, passion, and mindset.
+                I've faced over <span className="text-red-400 font-bold">700 + rejections</span> and failed countless interviews. I don't hold a traditional technical degree—yet I am a technologist by practice, passion, and mindset.
               </p>
             </motion.div>
 
